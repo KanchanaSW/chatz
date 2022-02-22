@@ -22,6 +22,7 @@ function Signin() {
           padding: "30px",
           fontSize: "20px",
           borderRadius: "0",
+          color: "white",
           fontWeight: "600",
         }}
         onClick={signInWithG}
